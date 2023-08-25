@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Developer",
+      "name": "Sourav Rout"
+    },
+    {
+      "id": 2,
+      "title": "Developer",
+      "name": "Amir"
+    },
+    {
+      "id": 3,
+      "title": "Vipin",
+      "name": "Developer"
+    },
+    {
+      "id": 4,
+      "title": "Ankit",
+      "name": "Developer"
+    },
+    {
+      "id": 5,
+      "title": "Uchit",
+      "name": "Developer"
+    }
+  ]
+}
